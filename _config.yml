@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuheng Su / Home Page"
+title                    : "Yuheng Su / 苏宇恒"
 title_separator          : "-"
-name                     : &name "Yuheng Su / 苏宇恒"
+name                     : &name "Yuheng Su"
 description              : &description "personal description"
 url                      : https://gipsyh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
