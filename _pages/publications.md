@@ -9,7 +9,7 @@ author_profile: true
 
   **Yuheng Su**, Yingcheng Li, Qiusong Yang, Yiwei Ci, Ziyu Huang
 
-  *62st ACM/IEEE Design Automation Conference (DAC)*, 2025.
+  *62nd ACM/IEEE Design Automation Conference (DAC)*, 2025.
 
 
 - <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DAC'24</span> <a href="https://dl.acm.org/doi/10.1145/3649329.3655970" style="color: blue;"><span style="color: blue;">Predicting Lemmas in Generalization of IC3</span></a>
