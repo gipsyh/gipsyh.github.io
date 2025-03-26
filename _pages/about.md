@@ -44,3 +44,6 @@ I am currently a Ph.D. student at the University of Chinese Academy of Sciences 
 - [rIC3](https://github.com/gipsyh/rIC3.git)
 
   A hardware formal verification model checker that won first place in the Hardware Model Checking Competition 2024 (HWMCC24).
+
+## Media Reports
+- [09/12/24] [WeChat Official Account] [中科院软件所] [软件所研发求解器rIC3获国际硬件模型检测竞赛冠军](https://mp.weixin.qq.com/s/I9COEPiHmbEblof6f2qZUA)
