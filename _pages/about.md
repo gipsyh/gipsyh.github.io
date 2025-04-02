@@ -10,6 +10,12 @@ redirect_from:
 I am currently a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and the Institute of Software, Chinese Academy of Sciences (ISCAS), under the supervision of Professor Qiusong Yang. I received my bachelor’s degree in Marine Technology from Ocean University of China (OUC) in 2021. My research interests focus on hardware formal verification.
 
 ## Publications
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">CAV'25</span> <a href="https://arxiv.org/abs/2502.13605" style="color: blue;"><span style="color: blue;">The rIC3 Hardware Model Checker</span></a>
+
+  **Yuheng Su**, Qiusong Yang, Yiwei Ci, Tianjun Bu, Ziyu Huang
+
+  *37th International Conference on Computer Aided Verification(CAV)*, 2025.
+
 - <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DAC'25</span> <a href="" style="color: blue;"><span style="color: blue;">Property-driven Parallel Symbolic Model Checking of LTL</span></a>
 
   **Yuheng Su**, Yingcheng Li, Qiusong Yang, Yiwei Ci, Ziyu Huang
