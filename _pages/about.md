@@ -16,6 +16,12 @@ I am currently a Ph.D. student at the University of Chinese Academy of Sciences 
 
   *37th International Conference on Computer Aided Verification(CAV)*, 2025.
 
+- <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">CAV'25</span> <a href="" style="color: blue;"><span style="color: blue;">Deeply Optimizing the SAT Solver for the IC3 Algorithm</span></a>
+
+  **Yuheng Su**, Qiusong Yang, Yiwei Ci, Yingcheng Li, Tianjun Bu, Ziyu Huang
+
+  *37th International Conference on Computer Aided Verification(CAV)*, 2025.
+
 - <span style="background-color: #87CEEB; color: white; padding: 3px 5px; border-radius: 3px; font-weight: bold;">DAC'25</span> <a href="" style="color: blue;"><span style="color: blue;">Property-driven Parallel Symbolic Model Checking of LTL</span></a>
 
   **Yuheng Su**, Yingcheng Li, Qiusong Yang, Yiwei Ci, Ziyu Huang
