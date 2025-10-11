@@ -37,6 +37,10 @@ I am currently a Ph.D. student at the University of Chinese Academy of Sciences 
 
 
 ## Awards & Honors
+- Distinguished Paper Award, Int. Conf. on Computer Aided Verification (CAV), 2025
+
+- Gold Medals, Bit-Level and Word-Level Bit-Vector Tracks, [2025 Hardware Model Checking Competition](https://hwmcc.github.io/2025/) (HWMCC'25)
+
 - Gold Medals, Bit-Level and Word-Level Bit-Vector Tracks, [2024 Hardware Model Checking Competition](https://hwmcc.github.io/2024/) (HWMCC'24)
 
 - Gold Medal, 2019 ACM International Collegiate Programming Contest (ICPC), Asia Regional Contest, Yinchuan Site
@@ -51,6 +55,8 @@ I am currently a Ph.D. student at the University of Chinese Academy of Sciences 
 - Huawei 2012 Laboratories, Central Software Institute, OS Kernel Lab (May 2020 – Sep 2020)
 
 - ByteDance Fundamental Infrastructure Department (Mar 2021 – Sep 2021)
+
+- Datenlord (Sep 2021 – Mar 2022)
 
 ## Tools
 - [rIC3](https://github.com/gipsyh/rIC3.git)
